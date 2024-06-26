@@ -1,6 +1,6 @@
 package A2dfs;
 
-public class D6타켓넘버 {
+public class D6타겟넘버 {
     static int answer = 0;
     public static void main(String[] args) {
         int[] numbers = {1,1,1,1,1};
